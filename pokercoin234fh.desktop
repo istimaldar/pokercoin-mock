@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Pocker Coin Scheme Handler
+Exec=pokercoin234fh.sh %u
+StartupNotify=false
+MimeType=x-scheme-handler/pokercoin234fh;
